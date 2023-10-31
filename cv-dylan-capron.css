@@ -1,0 +1,17 @@
+.title {
+    color: blue;
+}
+
+body {
+    background-image: url(file:///C:/Users/dylan/Downloads/Sans%20titre3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.test {
+    float: left;
+}
+
+.photo {
+    float: right;
+}
